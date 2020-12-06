@@ -1,0 +1,1 @@
+enum RequestType { GET, POST, PUT, PATCH, DELETE, UPLOAD_IMAGE }
